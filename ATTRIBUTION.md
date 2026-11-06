@@ -14,7 +14,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## abies-balsamea (abies-balsamea.t.6e66c8ca8a3c.webp, abies-balsamea.l.4f5de915be90.webp)
+## abies-balsamea
 
 - Files: `photos/abies-balsamea.t.6e66c8ca8a3c.webp` (200 px, cropped square), `photos/abies-balsamea.l.4f5de915be90.webp` (800 px)
 - Title: Balsam Fir (Abies balsamea) - Lark Harbour, Newfoundland 2019-08-18 (02).jpg
@@ -23,23 +23,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Ryan Hodnett; Copyright: Creative Commons Attribution-ShareAlike (CC BY-SA)
 
-## abies-balsamea (abies-balsamea.t.7398b7b92665.webp, abies-balsamea.l.855ff23180bf.webp)
-
-- Files: `photos/abies-balsamea.t.7398b7b92665.webp` (200 px, cropped square), `photos/abies-balsamea.l.855ff23180bf.webp` (800 px)
-- Title: Balsam Fir (Abies balsamea) - Lark Harbour, Newfoundland 2019-08-18 (02).jpg
-- Author: Ryan Hodnett
-- Source: https://commons.wikimedia.org/wiki/File:Balsam_Fir_(Abies_balsamea)_-_Lark_Harbour,_Newfoundland_2019-08-18_(02).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## abies-densa (abies-densa.t.7f512702ee88.webp, abies-densa.l.e0a4141b7684.webp)
-
-- Files: `photos/abies-densa.t.7f512702ee88.webp` (200 px, cropped square), `photos/abies-densa.l.e0a4141b7684.webp` (800 px)
-- Title: Abies densa foliage, Sandakphu, Singalila National Park, Sikkim.jpg
-- Author: Debojyoti Dey
-- Source: https://commons.wikimedia.org/wiki/File:Abies_densa_foliage,_Sandakphu,_Singalila_National_Park,_Sikkim.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## abies-densa (abies-densa.t.f18acd55cfca.webp, abies-densa.l.3254c728cb76.webp)
+## abies-densa
 
 - Files: `photos/abies-densa.t.f18acd55cfca.webp` (200 px, cropped square), `photos/abies-densa.l.3254c728cb76.webp` (800 px)
 - Title: Abies densa foliage, Sandakphu, Singalila National Park, Sikkim.jpg
@@ -128,19 +112,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:00_2018_Giant_Boab_Tree_-_Western_Australia.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## adansonia-za (adansonia-za.t.b8b15761ab3a.webp, adansonia-za.l.bf26b8b0de8e.webp)
+## adansonia-za
 
 - Files: `photos/adansonia-za.t.b8b15761ab3a.webp` (200 px, cropped square), `photos/adansonia-za.l.bf26b8b0de8e.webp` (800 px)
 - Title: Za baobab.jpg
 - Author: LoJallen, © L&K Photos
-- Source: https://commons.wikimedia.org/wiki/File:Za_baobab.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## adansonia-za (adansonia-za.t.e1a65cf7d266.webp, adansonia-za.l.3b0457321fd9.webp)
-
-- Files: `photos/adansonia-za.t.e1a65cf7d266.webp` (200 px, cropped square), `photos/adansonia-za.l.3b0457321fd9.webp` (800 px)
-- Title: Za baobab.jpg
-- Author: LoJallen
 - Source: https://commons.wikimedia.org/wiki/File:Za_baobab.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -208,15 +184,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Allocasuarina_decaisneana_tree.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## alluaudia-procera (alluaudia-procera.t.050b02474d9a.webp, alluaudia-procera.l.b1f26517e612.webp)
-
-- Files: `photos/alluaudia-procera.t.050b02474d9a.webp` (200 px, cropped square), `photos/alluaudia-procera.l.b1f26517e612.webp` (800 px)
-- Title: Alluaudia procera, jardín botánico de Tallinn, Estonia, 2012-08-13, DD 01.JPG
-- Author: Diego Delso
-- Source: https://commons.wikimedia.org/wiki/File:Alluaudia_procera,_jard%C3%ADn_bot%C3%A1nico_de_Tallinn,_Estonia,_2012-08-13,_DD_01.JPG
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## alluaudia-procera (alluaudia-procera.t.190b0c404f2a.webp, alluaudia-procera.l.6cdb9ef2976e.webp)
+## alluaudia-procera
 
 - Files: `photos/alluaudia-procera.t.190b0c404f2a.webp` (200 px, cropped square), `photos/alluaudia-procera.l.6cdb9ef2976e.webp` (800 px)
 - Title: Alluaudia procera, jardín botánico de Tallinn, Estonia, 2012-08-13, DD 01.JPG
@@ -281,15 +249,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Cashew_apples.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## ananas-comosus (ananas-comosus.t.a053c1c75d99.webp, ananas-comosus.l.dd827174447c.webp)
-
-- Files: `photos/ananas-comosus.t.a053c1c75d99.webp` (200 px, cropped square), `photos/ananas-comosus.l.dd827174447c.webp` (800 px)
-- Title: AnanasComosusOnPlant.jpg
-- Author: Markus Leupold-Löwenthal
-- Source: https://commons.wikimedia.org/wiki/File:AnanasComosusOnPlant.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## ananas-comosus (ananas-comosus.t.d34c525b93bf.webp, ananas-comosus.l.755d5304c98b.webp)
+## ananas-comosus
 
 - Files: `photos/ananas-comosus.t.d34c525b93bf.webp` (200 px, cropped square), `photos/ananas-comosus.l.755d5304c98b.webp` (800 px)
 - Title: AnanasComosusOnPlant.jpg
@@ -322,15 +282,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Angelica_archangelica_subsp._archangelica_Dzi%C4%99giel_litwor_2013-06-23_01.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## angraecum-sesquipedale (angraecum-sesquipedale.t.0a776e8e6f74.webp, angraecum-sesquipedale.l.ccfbf9ee2c0c.webp)
-
-- Files: `photos/angraecum-sesquipedale.t.0a776e8e6f74.webp` (200 px, cropped square), `photos/angraecum-sesquipedale.l.ccfbf9ee2c0c.webp` (800 px)
-- Title: Angraecum sesquipedale Thouars, Hist. Orchid. 66 (1822) (45713158794).jpg
-- Author: sunoochi from Sapporo, Hokkaido, Japan
-- Source: https://commons.wikimedia.org/wiki/File:Angraecum_sesquipedale_Thouars,_Hist._Orchid._66_(1822)_(45713158794).jpg
-- Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
-
-## angraecum-sesquipedale (angraecum-sesquipedale.t.b68da6b41512.webp, angraecum-sesquipedale.l.551c6173057e.webp)
+## angraecum-sesquipedale
 
 - Files: `photos/angraecum-sesquipedale.t.b68da6b41512.webp` (200 px, cropped square), `photos/angraecum-sesquipedale.l.551c6173057e.webp` (800 px)
 - Title: Angraecum sesquipedale Thouars, Hist. Orchid. 66 (1822) (45713158794).jpg
@@ -339,15 +291,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 - Notice in the original file: Artist: Motohiro SUNOUCHI
 
-## anigozanthos-manglesii (anigozanthos-manglesii.t.259abd5a863a.webp, anigozanthos-manglesii.l.749866ac8fe4.webp)
-
-- Files: `photos/anigozanthos-manglesii.t.259abd5a863a.webp` (200 px, cropped square), `photos/anigozanthos-manglesii.l.749866ac8fe4.webp` (800 px)
-- Title: Anigozanthos manglesii gnangarra-1007.jpg
-- Author: Gnangarra
-- Source: https://commons.wikimedia.org/wiki/File:Anigozanthos_manglesii_gnangarra-1007.jpg
-- Licence: CC BY 2.5 AU (https://creativecommons.org/licenses/by/2.5/au/)
-
-## anigozanthos-manglesii (anigozanthos-manglesii.t.96b6c27b4327.webp, anigozanthos-manglesii.l.6d96c97bb452.webp)
+## anigozanthos-manglesii
 
 - Files: `photos/anigozanthos-manglesii.t.96b6c27b4327.webp` (200 px, cropped square), `photos/anigozanthos-manglesii.l.6d96c97bb452.webp` (800 px)
 - Title: Anigozanthos manglesii, Eaton.JPG
@@ -499,19 +443,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Belis_peremnis_-_panoramio.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## bertholletia-excelsa (bertholletia-excelsa.t.a36b497dd28e.webp, bertholletia-excelsa.l.40b12c2ab0a4.webp)
+## bertholletia-excelsa
 
 - Files: `photos/bertholletia-excelsa.t.a36b497dd28e.webp` (200 px, cropped square), `photos/bertholletia-excelsa.l.40b12c2ab0a4.webp` (800 px)
 - Title: Castanheira 1.jpg
 - Author: Fernando Cunha (Nando cunha)
-- Source: https://commons.wikimedia.org/wiki/File:Castanheira_1.jpg
-- Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
-
-## bertholletia-excelsa (bertholletia-excelsa.t.f10c72a1241d.webp, bertholletia-excelsa.l.2c5e24b10d2c.webp)
-
-- Files: `photos/bertholletia-excelsa.t.f10c72a1241d.webp` (200 px, cropped square), `photos/bertholletia-excelsa.l.2c5e24b10d2c.webp` (800 px)
-- Title: Castanheira 1.jpg
-- Author: Nando cunha
 - Source: https://commons.wikimedia.org/wiki/File:Castanheira_1.jpg
 - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 
@@ -531,15 +467,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:PaperBirchBark.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## betula-pendula (betula-pendula.t.1cb0f9f3371a.webp, betula-pendula.l.99cd12853274.webp)
-
-- Files: `photos/betula-pendula.t.1cb0f9f3371a.webp` (200 px, cropped square), `photos/betula-pendula.l.99cd12853274.webp` (800 px)
-- Title: 2016 Popków, Góry Bialskie, Sudety 7.jpg
-- Author: Jacek Halicki
-- Source: https://commons.wikimedia.org/wiki/File:2016_Popk%C3%B3w,_G%C3%B3ry_Bialskie,_Sudety_7.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## betula-pendula (betula-pendula.t.41e01f4963ba.webp, betula-pendula.l.f11dd5494f26.webp)
+## betula-pendula
 
 - Files: `photos/betula-pendula.t.41e01f4963ba.webp` (200 px, cropped square), `photos/betula-pendula.l.f11dd5494f26.webp` (800 px)
 - Title: 2016 Popków, Góry Bialskie, Sudety 7.jpg
@@ -548,7 +476,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Jacek Halicki
 
-## betula-pubescens (betula-pubescens.t.2d721d7f4d1d.webp, betula-pubescens.l.4a94ff14be0d.webp)
+## betula-pubescens
 
 - Files: `photos/betula-pubescens.t.2d721d7f4d1d.webp` (200 px, cropped square), `photos/betula-pubescens.l.4a94ff14be0d.webp` (800 px)
 - Title: 0 Betula pubescens - Vecquée - Xhoffraix (2).JPG
@@ -556,14 +484,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:0_Betula_pubescens_-_Vecqu%C3%A9e_-_Xhoffraix_(2).JPG
 - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 - Notice in the original file: Artist: © Jean-Pol GRANDMONT
-
-## betula-pubescens (betula-pubescens.t.abb38eaf5da1.webp, betula-pubescens.l.974aa9c0b7bb.webp)
-
-- Files: `photos/betula-pubescens.t.abb38eaf5da1.webp` (200 px, cropped square), `photos/betula-pubescens.l.974aa9c0b7bb.webp` (800 px)
-- Title: 0 Betula pubescens - Vecquée - Xhoffraix (2).JPG
-- Author: Jean-Pol GRANDMONT
-- Source: https://commons.wikimedia.org/wiki/File:0_Betula_pubescens_-_Vecqu%C3%A9e_-_Xhoffraix_(2).JPG
-- Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 
 ## betula-utilis
 
@@ -589,15 +509,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Bixa_orellana_seed_pods.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## blighia-sapida (blighia-sapida.t.29fa545bef6a.webp, blighia-sapida.l.4f83aee09dc4.webp)
-
-- Files: `photos/blighia-sapida.t.29fa545bef6a.webp` (200 px, cropped square), `photos/blighia-sapida.l.4f83aee09dc4.webp` (800 px)
-- Title: Ackee 001.jpg
-- Author: Jerome Walker
-- Source: https://commons.wikimedia.org/wiki/File:Ackee_001.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## blighia-sapida (blighia-sapida.t.88319960f855.webp, blighia-sapida.l.977482a08985.webp)
+## blighia-sapida
 
 - Files: `photos/blighia-sapida.t.88319960f855.webp` (200 px, cropped square), `photos/blighia-sapida.l.977482a08985.webp` (800 px)
 - Title: Ackee 001.jpg
@@ -654,7 +566,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Brachystegia_spiciformis_50D_0633.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## brassica-napus (brassica-napus.t.20330ad1e151.webp, brassica-napus.l.f660d88137e9.webp)
+## brassica-napus
 
 - Files: `photos/brassica-napus.t.20330ad1e151.webp` (200 px, cropped square), `photos/brassica-napus.l.f660d88137e9.webp` (800 px)
 - Title: (MHNT) Brassica napus - Habit.jpg
@@ -662,14 +574,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Brassica_napus_-_Habit.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Didier Descouens
-
-## brassica-napus (brassica-napus.t.c09e370a96c5.webp, brassica-napus.l.794146956226.webp)
-
-- Files: `photos/brassica-napus.t.c09e370a96c5.webp` (200 px, cropped square), `photos/brassica-napus.l.794146956226.webp` (800 px)
-- Title: (MHNT) Brassica napus - Habit.jpg
-- Author: Didier Descouens
-- Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Brassica_napus_-_Habit.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## brassica-oleracea
 
@@ -871,15 +775,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Cattleya_trianae_(14617792759).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## cedrus-atlantica (cedrus-atlantica.t.329fa33eab6d.webp, cedrus-atlantica.l.41a84a78e87a.webp)
-
-- Files: `photos/cedrus-atlantica.t.329fa33eab6d.webp` (200 px, cropped square), `photos/cedrus-atlantica.l.41a84a78e87a.webp` (800 px)
-- Title: Moroccan Atlantic cedar.jpg
-- Author: Nikos D. Karabelas
-- Source: https://commons.wikimedia.org/wiki/File:Moroccan_Atlantic_cedar.jpg
-- Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-
-## cedrus-atlantica (cedrus-atlantica.t.b9638abff319.webp, cedrus-atlantica.l.8e636570ae0f.webp)
+## cedrus-atlantica
 
 - Files: `photos/cedrus-atlantica.t.b9638abff319.webp` (200 px, cropped square), `photos/cedrus-atlantica.l.8e636570ae0f.webp` (800 px)
 - Title: Cedrus libani subsp. atlantica in Ain Leuh commune, Morocco.jpg
@@ -904,7 +800,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:C%C3%A8dre_du_Liban_Barouk_2005.jpg
 - Licence: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/)
 
-## ceiba-pentandra (ceiba-pentandra.t.20194f94adb7.webp, ceiba-pentandra.l.a6200233cac5.webp)
+## ceiba-pentandra
 
 - Files: `photos/ceiba-pentandra.t.20194f94adb7.webp` (200 px, cropped square), `photos/ceiba-pentandra.l.a6200233cac5.webp` (800 px)
 - Title: Ceiba pentandra in Cuba.jpg
@@ -912,14 +808,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Ceiba_pentandra_in_Cuba.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Burkhard Muecke
-
-## ceiba-pentandra (ceiba-pentandra.t.5a608352fc24.webp, ceiba-pentandra.l.b63e9846e133.webp)
-
-- Files: `photos/ceiba-pentandra.t.5a608352fc24.webp` (200 px, cropped square), `photos/ceiba-pentandra.l.b63e9846e133.webp` (800 px)
-- Title: Ceiba pentandra in Cuba.jpg
-- Author: Burkhard Mücke
-- Source: https://commons.wikimedia.org/wiki/File:Ceiba_pentandra_in_Cuba.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## cenchrus-americanus
 
@@ -977,7 +865,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Quinua.JPG
 - Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-self)
 
-## chrysanthemum-x-morifolium (chrysanthemum-x-morifolium.t.19da3096ab4a.webp, chrysanthemum-x-morifolium.l.d708bf92ca9c.webp)
+## chrysanthemum-x-morifolium
 
 - Files: `photos/chrysanthemum-x-morifolium.t.19da3096ab4a.webp` (200 px, cropped square), `photos/chrysanthemum-x-morifolium.l.d708bf92ca9c.webp` (800 px)
 - Title: Chrysanthemum November 2007 Osaka Japan.jpg
@@ -985,14 +873,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Chrysanthemum_November_2007_Osaka_Japan.jpg
 - Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-user)
 - Notice in the original file: Copyright: Laitche (This file is in the public domain.)
-
-## chrysanthemum-x-morifolium (chrysanthemum-x-morifolium.t.227e2f79027c.webp, chrysanthemum-x-morifolium.l.f3cf23c138ed.webp)
-
-- Files: `photos/chrysanthemum-x-morifolium.t.227e2f79027c.webp` (200 px, cropped square), `photos/chrysanthemum-x-morifolium.l.f3cf23c138ed.webp` (800 px)
-- Title: Chrysanthemum November 2007 Osaka Japan.jpg
-- Author: Laitche
-- Source: https://commons.wikimedia.org/wiki/File:Chrysanthemum_November_2007_Osaka_Japan.jpg
-- Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-user)
 
 ## cicer-arietinum
 
@@ -1082,7 +962,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Coccothrinax_proctorii_3zz.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## cocos-nucifera (cocos-nucifera.t.86d251c0c285.webp, cocos-nucifera.l.d42ad053883f.webp)
+## cocos-nucifera
 
 - Files: `photos/cocos-nucifera.t.86d251c0c285.webp` (200 px, cropped square), `photos/cocos-nucifera.l.d42ad053883f.webp` (800 px)
 - Title: Coconut Palm Cola Bay Goa Jan19 DSC00303.jpg
@@ -1090,14 +970,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Coconut_Palm_Cola_Bay_Goa_Jan19_DSC00303.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: TAGonsalves
-
-## cocos-nucifera (cocos-nucifera.t.e0785b35b344.webp, cocos-nucifera.l.1a1b721b4317.webp)
-
-- Files: `photos/cocos-nucifera.t.e0785b35b344.webp` (200 px, cropped square), `photos/cocos-nucifera.l.1a1b721b4317.webp` (800 px)
-- Title: Coconut Palm Cola Bay Goa Jan19 DSC00303.jpg
-- Author: Timothy A. Gonsalves
-- Source: https://commons.wikimedia.org/wiki/File:Coconut_Palm_Cola_Bay_Goa_Jan19_DSC00303.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## coffea-arabica
 
@@ -1107,19 +979,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Coffee_Flowers.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## coffea-canephora (coffea-canephora.t.0e37abecbbb1.webp, coffea-canephora.l.9070fd6290ff.webp)
+## coffea-canephora
 
 - Files: `photos/coffea-canephora.t.0e37abecbbb1.webp` (200 px, cropped square), `photos/coffea-canephora.l.9070fd6290ff.webp` (800 px)
 - Title: Coffea canephora berries.JPG
 - Author: Siddharth Patil
-- Source: https://commons.wikimedia.org/wiki/File:Coffea_canephora_berries.JPG
-- Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-
-## coffea-canephora (coffea-canephora.t.d9861369b431.webp, coffea-canephora.l.677a0edb8154.webp)
-
-- Files: `photos/coffea-canephora.t.d9861369b431.webp` (200 px, cropped square), `photos/coffea-canephora.l.677a0edb8154.webp` (800 px)
-- Title: Coffea canephora berries.JPG
-- Author: Ksd5
 - Source: https://commons.wikimedia.org/wiki/File:Coffea_canephora_berries.JPG
 - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -1139,15 +1003,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Antarctic_Pearlwort.jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## colocasia-esculenta (colocasia-esculenta.t.88d1e6a3c839.webp, colocasia-esculenta.l.d5e35e82c65b.webp)
-
-- Files: `photos/colocasia-esculenta.t.88d1e6a3c839.webp` (200 px, cropped square), `photos/colocasia-esculenta.l.d5e35e82c65b.webp` (800 px)
-- Title: (MHNT) Colocasia esculenta - Les Martels, Giroussens Tarn.jpg
-- Author: Didier Descouens
-- Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Colocasia_esculenta_-_Les_Martels,_Giroussens_Tarn.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## colocasia-esculenta (colocasia-esculenta.t.9d7bea23eb5f.webp, colocasia-esculenta.l.ff23d683b670.webp)
+## colocasia-esculenta
 
 - Files: `photos/colocasia-esculenta.t.9d7bea23eb5f.webp` (200 px, cropped square), `photos/colocasia-esculenta.l.ff23d683b670.webp` (800 px)
 - Title: (MHNT) Colocasia esculenta - Les Martels, Giroussens Tarn.jpg
@@ -1172,7 +1028,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Gumwood_Tree_(16567144905).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## convallaria-majalis (convallaria-majalis.t.c4fbbf544a26.webp, convallaria-majalis.l.4d30e3c06b60.webp)
+## convallaria-majalis
 
 - Files: `photos/convallaria-majalis.t.c4fbbf544a26.webp` (200 px, cropped square), `photos/convallaria-majalis.l.4d30e3c06b60.webp` (800 px)
 - Title: Convallaria majalis inflorescence - Keila.jpg
@@ -1180,14 +1036,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Convallaria_majalis_inflorescence_-_Keila.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Ivar Leidus
-
-## convallaria-majalis (convallaria-majalis.t.f30b3972f895.webp, convallaria-majalis.l.646ff3fdb8ab.webp)
-
-- Files: `photos/convallaria-majalis.t.f30b3972f895.webp` (200 px, cropped square), `photos/convallaria-majalis.l.646ff3fdb8ab.webp` (800 px)
-- Title: Convallaria majalis inflorescence - Keila.jpg
-- Author: Ivar Leidus
-- Source: https://commons.wikimedia.org/wiki/File:Convallaria_majalis_inflorescence_-_Keila.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## copernicia-prunifera
 
@@ -1229,7 +1077,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Ti_plant_(Cordyline_fruticosa).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## cortaderia-selloana (cortaderia-selloana.t.13a354811ef0.webp, cortaderia-selloana.l.43d82cd99598.webp)
+## cortaderia-selloana
 
 - Files: `photos/cortaderia-selloana.t.13a354811ef0.webp` (200 px, cropped square), `photos/cortaderia-selloana.l.43d82cd99598.webp` (800 px)
 - Title: Cortaderia selloana A74194920240831.jpg
@@ -1237,14 +1085,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Cortaderia_selloana_A74194920240831.jpg
 - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - Notice in the original file: Artist: RC; Copyright: @RC
-
-## cortaderia-selloana (cortaderia-selloana.t.3efebbaba2e9.webp, cortaderia-selloana.l.5561def13a0b.webp)
-
-- Files: `photos/cortaderia-selloana.t.3efebbaba2e9.webp` (200 px, cropped square), `photos/cortaderia-selloana.l.5561def13a0b.webp` (800 px)
-- Title: Cortaderia selloana A74194920240831.jpg
-- Author: Rjcastillo
-- Source: https://commons.wikimedia.org/wiki/File:Cortaderia_selloana_A74194920240831.jpg
-- Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 ## corylus-avellana
 
@@ -1270,7 +1110,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Flower_of_Cannon_Ball_Tree.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## crataegus-monogyna (crataegus-monogyna.t.456abbea9558.webp, crataegus-monogyna.l.ee4fc2b5a6be.webp)
+## crataegus-monogyna
 
 - Files: `photos/crataegus-monogyna.t.456abbea9558.webp` (200 px, cropped square), `photos/crataegus-monogyna.l.ee4fc2b5a6be.webp` (800 px)
 - Title: (MHNT) Crataegus monogyna - flowers and buds.jpg
@@ -1278,14 +1118,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Crataegus_monogyna_-_flowers_and_buds.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Didier Descouens
-
-## crataegus-monogyna (crataegus-monogyna.t.a50880f5dec9.webp, crataegus-monogyna.l.fc923f4b6814.webp)
-
-- Files: `photos/crataegus-monogyna.t.a50880f5dec9.webp` (200 px, cropped square), `photos/crataegus-monogyna.l.fc923f4b6814.webp` (800 px)
-- Title: (MHNT) Crataegus monogyna - flowers and buds.jpg
-- Author: Didier Descouens
-- Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Crataegus_monogyna_-_flowers_and_buds.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## crescentia-cujete
 
@@ -1295,15 +1127,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Calabash_Tree_(Crescentia_cujete).jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## crocus-sativus (crocus-sativus.t.0aa42c434b65.webp, crocus-sativus.l.9d01e197cadd.webp)
-
-- Files: `photos/crocus-sativus.t.0aa42c434b65.webp` (200 px, cropped square), `photos/crocus-sativus.l.9d01e197cadd.webp` (800 px)
-- Title: 860808-Saffronfarm-01-IMG 7707-2.jpg
-- Author: Safa.daneshvar
-- Source: https://commons.wikimedia.org/wiki/File:860808-Saffronfarm-01-IMG_7707-2.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## crocus-sativus (crocus-sativus.t.acc9e0a4ce69.webp, crocus-sativus.l.db8f6f967fc9.webp)
+## crocus-sativus
 
 - Files: `photos/crocus-sativus.t.acc9e0a4ce69.webp` (200 px, cropped square), `photos/crocus-sativus.l.db8f6f967fc9.webp` (800 px)
 - Title: 860808-Saffronfarm-01-IMG 7707-2.jpg
@@ -1343,15 +1167,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Starr-140925-1977-Curcuma_longa-flowering_habit-Pali_o_Waipio_Huelo-Maui_(25128294462).jpg
 - Licence: CC BY 3.0 US (https://creativecommons.org/licenses/by/3.0/us/)
 
-## cycas-seemannii (cycas-seemannii.t.75ec38c4e397.webp, cycas-seemannii.l.3acfe9e2773c.webp)
-
-- Files: `photos/cycas-seemannii.t.75ec38c4e397.webp` (200 px, cropped square), `photos/cycas-seemannii.l.3acfe9e2773c.webp` (800 px)
-- Title: Gardenology.org-IMG 2604 rbgs11jan.jpg
-- Author: Raffi Kojian
-- Source: https://commons.wikimedia.org/wiki/File:Gardenology.org-IMG_2604_rbgs11jan.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## cycas-seemannii (cycas-seemannii.t.9554f31a036f.webp, cycas-seemannii.l.51687c062d85.webp)
+## cycas-seemannii
 
 - Files: `photos/cycas-seemannii.t.9554f31a036f.webp` (200 px, cropped square), `photos/cycas-seemannii.l.51687c062d85.webp` (800 px)
 - Title: Gardenology.org-IMG 2604 rbgs11jan.jpg
@@ -1495,15 +1311,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Tree_Fern_(16347626329).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## digitalis-purpurea (digitalis-purpurea.t.3e4735fb07a0.webp, digitalis-purpurea.l.8d59db051bcd.webp)
-
-- Files: `photos/digitalis-purpurea.t.3e4735fb07a0.webp` (200 px, cropped square), `photos/digitalis-purpurea.l.8d59db051bcd.webp` (800 px)
-- Title: Digitalis purpurea 220605.jpg
-- Author: Bernd Haynold
-- Source: https://commons.wikimedia.org/wiki/File:Digitalis_purpurea_220605.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## digitalis-purpurea (digitalis-purpurea.t.705c8a1f638b.webp, digitalis-purpurea.l.4b11248a5ba1.webp)
+## digitalis-purpurea
 
 - Files: `photos/digitalis-purpurea.t.705c8a1f638b.webp` (200 px, cropped square), `photos/digitalis-purpurea.l.4b11248a5ba1.webp` (800 px)
 - Title: Digitale pourpre (Digitalis purpurea) (9).jpg
@@ -1511,7 +1319,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Digitale_pourpre_(Digitalis_purpurea)_(9).jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## digitaria-exilis (digitaria-exilis.t.878d413ae55f.webp, digitaria-exilis.l.10ace838fc5a.webp)
+## digitaria-exilis
 
 - Files: `photos/digitaria-exilis.t.878d413ae55f.webp` (200 px, cropped square), `photos/digitaria-exilis.l.10ace838fc5a.webp` (800 px)
 - Title: Fonio panicles maturing in Natitingou, northern Benin.jpg
@@ -1519,14 +1327,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Fonio_panicles_maturing_in_Natitingou,_northern_Benin.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Michael Major; Copyright: MICHAEL MAJOR
-
-## digitaria-exilis (digitaria-exilis.t.e6734389b0a5.webp, digitaria-exilis.l.51ad0ef4a807.webp)
-
-- Files: `photos/digitaria-exilis.t.e6734389b0a5.webp` (200 px, cropped square), `photos/digitaria-exilis.l.51ad0ef4a807.webp` (800 px)
-- Title: Fonio panicles maturing in Natitingou, northern Benin.jpg
-- Author: Crop Trust
-- Source: https://commons.wikimedia.org/wiki/File:Fonio_panicles_maturing_in_Natitingou,_northern_Benin.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## dillenia-suffruticosa
 
@@ -1808,7 +1608,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Moretonbayfigfrom1850.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## ficus-religiosa (ficus-religiosa.t.0651020fd73b.webp, ficus-religiosa.l.57e9ba9c9184.webp)
+## ficus-religiosa
 
 - Files: `photos/ficus-religiosa.t.0651020fd73b.webp` (200 px, cropped square), `photos/ficus-religiosa.l.57e9ba9c9184.webp` (800 px)
 - Title: Bodhi Baum (Ficus religiosa).jpg
@@ -1816,14 +1616,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Bodhi_Baum_(Ficus_religiosa).jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Burkhard Muecke
-
-## ficus-religiosa (ficus-religiosa.t.b89a98f35380.webp, ficus-religiosa.l.63d2f92b3d1f.webp)
-
-- Files: `photos/ficus-religiosa.t.b89a98f35380.webp` (200 px, cropped square), `photos/ficus-religiosa.l.63d2f92b3d1f.webp` (800 px)
-- Title: Bodhi Baum (Ficus religiosa).jpg
-- Author: Burkhard Mücke
-- Source: https://commons.wikimedia.org/wiki/File:Bodhi_Baum_(Ficus_religiosa).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## fitzroya-cupressoides
 
@@ -1841,15 +1633,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_001.jpg
 - Licence: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/)
 
-## fritillaria-imperialis (fritillaria-imperialis.t.5eb449f6a20a.webp, fritillaria-imperialis.l.94e24e1703e2.webp)
-
-- Files: `photos/fritillaria-imperialis.t.5eb449f6a20a.webp` (200 px, cropped square), `photos/fritillaria-imperialis.l.94e24e1703e2.webp` (800 px)
-- Title: YellowCrownImperials.JPG
-- Author: UpstateNYer
-- Source: https://commons.wikimedia.org/wiki/File:YellowCrownImperials.JPG
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## fritillaria-imperialis (fritillaria-imperialis.t.e7922fc76691.webp, fritillaria-imperialis.l.f2fa00c29358.webp)
+## fritillaria-imperialis
 
 - Files: `photos/fritillaria-imperialis.t.e7922fc76691.webp` (200 px, cropped square), `photos/fritillaria-imperialis.l.f2fa00c29358.webp` (800 px)
 - Title: YellowCrownImperials.JPG
@@ -1897,15 +1681,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Gloriosa_superba_1.jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## glycine-max (glycine-max.t.0870a9346203.webp, glycine-max.l.926ba1c420fa.webp)
-
-- Files: `photos/glycine-max.t.0870a9346203.webp` (200 px, cropped square), `photos/glycine-max.l.926ba1c420fa.webp` (800 px)
-- Title: Closeup of Soybean Pods (10060092536).jpg
-- Author: United Soybean Board
-- Source: https://commons.wikimedia.org/wiki/File:Closeup_of_Soybean_Pods_(10060092536).jpg
-- Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
-
-## glycine-max (glycine-max.t.c265f3b75010.webp, glycine-max.l.8506ad789fd1.webp)
+## glycine-max
 
 - Files: `photos/glycine-max.t.c265f3b75010.webp` (200 px, cropped square), `photos/glycine-max.l.8506ad789fd1.webp` (800 px)
 - Title: Closeup of Soybean Pods (10060092536).jpg
@@ -1946,7 +1722,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Guaiacum_officinale_(2477708305).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## guaiacum-sanctum (guaiacum-sanctum.t.c2d696bf5040.webp, guaiacum-sanctum.l.a2d4d3a3b5d2.webp)
+## guaiacum-sanctum
 
 - Files: `photos/guaiacum-sanctum.t.c2d696bf5040.webp` (200 px, cropped square), `photos/guaiacum-sanctum.l.a2d4d3a3b5d2.webp` (800 px)
 - Title: Guaiacum sanctum kz03.jpg
@@ -1954,14 +1730,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Guaiacum_sanctum_kz03.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: KRZYSZTOF ZIARNEK
-
-## guaiacum-sanctum (guaiacum-sanctum.t.f184cd3245c1.webp, guaiacum-sanctum.l.70b060a0167d.webp)
-
-- Files: `photos/guaiacum-sanctum.t.f184cd3245c1.webp` (200 px, cropped square), `photos/guaiacum-sanctum.l.70b060a0167d.webp` (800 px)
-- Title: Guaiacum sanctum kz03.jpg
-- Author: Krzysztof Ziarnek, Kenraiz
-- Source: https://commons.wikimedia.org/wiki/File:Guaiacum_sanctum_kz03.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## guarianthe-skinneri
 
@@ -2003,15 +1771,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Guayac%C3%A1n_amarillo_(Tabebuia_chrysantha)_(15414582978).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## handroanthus-chrysotrichus (handroanthus-chrysotrichus.t.6c129b3e0381.webp, handroanthus-chrysotrichus.l.17c7925fbde0.webp)
-
-- Files: `photos/handroanthus-chrysotrichus.t.6c129b3e0381.webp` (200 px, cropped square), `photos/handroanthus-chrysotrichus.l.17c7925fbde0.webp` (800 px)
-- Title: Ipê (Avaré) REFON.jpg
-- Author: José Reynaldo da Fonseca
-- Source: https://commons.wikimedia.org/wiki/File:Ip%C3%AA_(Avar%C3%A9)_REFON.jpg
-- Licence: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/)
-
-## handroanthus-chrysotrichus (handroanthus-chrysotrichus.t.837952dffd6b.webp, handroanthus-chrysotrichus.l.7c9e6613e630.webp)
+## handroanthus-chrysotrichus
 
 - Files: `photos/handroanthus-chrysotrichus.t.837952dffd6b.webp` (200 px, cropped square), `photos/handroanthus-chrysotrichus.l.7c9e6613e630.webp` (800 px)
 - Title: Ipê (Avaré) REFON.jpg
@@ -2060,15 +1820,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Heliconia_caribaea-_Jardin_botanique_de_Deshaies.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## heliconia-rostrata (heliconia-rostrata.t.5c50770bd016.webp, heliconia-rostrata.l.c56baf8a5fd3.webp)
-
-- Files: `photos/heliconia-rostrata.t.5c50770bd016.webp` (200 px, cropped square), `photos/heliconia-rostrata.l.c56baf8a5fd3.webp` (800 px)
-- Title: Hanging lobster claw or false bird of paradise - Heliconia rostrata.jpg
-- Author: NorbertNagel
-- Source: https://commons.wikimedia.org/wiki/File:Hanging_lobster_claw_or_false_bird_of_paradise_-_Heliconia_rostrata.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## heliconia-rostrata (heliconia-rostrata.t.c06574648c41.webp, heliconia-rostrata.l.b5f06dc8a335.webp)
+## heliconia-rostrata
 
 - Files: `photos/heliconia-rostrata.t.c06574648c41.webp` (200 px, cropped square), `photos/heliconia-rostrata.l.b5f06dc8a335.webp` (800 px)
 - Title: Hanging lobster claw or false bird of paradise - Heliconia rostrata.jpg
@@ -2085,15 +1837,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Sundari_tree_(23844140499).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## hevea-brasiliensis (hevea-brasiliensis.t.4a0768e09b73.webp, hevea-brasiliensis.l.9e27aaa3c926.webp)
-
-- Files: `photos/hevea-brasiliensis.t.4a0768e09b73.webp` (200 px, cropped square), `photos/hevea-brasiliensis.l.9e27aaa3c926.webp` (800 px)
-- Title: Latex collection 04.jpg
-- Author: Vis M
-- Source: https://commons.wikimedia.org/wiki/File:Latex_collection_04.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## hevea-brasiliensis (hevea-brasiliensis.t.d41fc75f1031.webp, hevea-brasiliensis.l.e514736f4a2f.webp)
+## hevea-brasiliensis
 
 - Files: `photos/hevea-brasiliensis.t.d41fc75f1031.webp` (200 px, cropped square), `photos/hevea-brasiliensis.l.e514736f4a2f.webp` (800 px)
 - Title: Latex collection 04.jpg
@@ -2142,7 +1886,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides_(Elaeagnaceae)_(33219344042).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## hordeum-vulgare (hordeum-vulgare.t.75e5521312bd.webp, hordeum-vulgare.l.d7dc1ee3527d.webp)
+## hordeum-vulgare
 
 - Files: `photos/hordeum-vulgare.t.75e5521312bd.webp` (200 px, cropped square), `photos/hordeum-vulgare.l.d7dc1ee3527d.webp` (800 px)
 - Title: Champ d'Orge carrée (Hordeum vulgare).jpg
@@ -2151,15 +1895,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: JackyM59
 
-## hordeum-vulgare (hordeum-vulgare.t.8e0373d2d039.webp, hordeum-vulgare.l.69e3c7a00777.webp)
-
-- Files: `photos/hordeum-vulgare.t.8e0373d2d039.webp` (200 px, cropped square), `photos/hordeum-vulgare.l.69e3c7a00777.webp` (800 px)
-- Title: Champ d'Orge carrée (Hordeum vulgare).jpg
-- Author: JackyM59
-- Source: https://commons.wikimedia.org/wiki/File:Champ_d%27Orge_carr%C3%A9e_(Hordeum_vulgare).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## hyacinthoides-non-scripta (hyacinthoides-non-scripta.t.c6c1ff0cb80a.webp, hyacinthoides-non-scripta.l.16ba2537cd5b.webp)
+## hyacinthoides-non-scripta
 
 - Files: `photos/hyacinthoides-non-scripta.t.c6c1ff0cb80a.webp` (200 px, cropped square), `photos/hyacinthoides-non-scripta.l.16ba2537cd5b.webp` (800 px)
 - Title: Hyacinthoides non-scripta (Common Bluebell).jpg
@@ -2168,23 +1904,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Artist: Michael N Maggs
 
-## hyacinthoides-non-scripta (hyacinthoides-non-scripta.t.e70a78ac6b85.webp, hyacinthoides-non-scripta.l.020f2e91ab37.webp)
-
-- Files: `photos/hyacinthoides-non-scripta.t.e70a78ac6b85.webp` (200 px, cropped square), `photos/hyacinthoides-non-scripta.l.020f2e91ab37.webp` (800 px)
-- Title: Hyacinthoides non-scripta (Common Bluebell).jpg
-- Author: MichaelMaggs
-- Source: https://commons.wikimedia.org/wiki/File:Hyacinthoides_non-scripta_(Common_Bluebell).jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## hyphaene-thebaica (hyphaene-thebaica.t.28e45ca26240.webp, hyphaene-thebaica.l.806e4c96adee.webp)
-
-- Files: `photos/hyphaene-thebaica.t.28e45ca26240.webp` (200 px, cropped square), `photos/hyphaene-thebaica.l.806e4c96adee.webp` (800 px)
-- Title: Dum palm us.JPG
-- Author: David Haberlah
-- Source: https://commons.wikimedia.org/wiki/File:Dum_palm_us.JPG
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## hyphaene-thebaica (hyphaene-thebaica.t.e139a11285cd.webp, hyphaene-thebaica.l.4c88ea90888c.webp)
+## hyphaene-thebaica
 
 - Files: `photos/hyphaene-thebaica.t.e139a11285cd.webp` (200 px, cropped square), `photos/hyphaene-thebaica.l.4c88ea90888c.webp` (800 px)
 - Title: Dum palm us.JPG
@@ -2257,7 +1977,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Iris_nigricans_104379460.jpg
 - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-## iris-x-germanica (iris-x-germanica.t.547b18305241.webp, iris-x-germanica.l.70a63ab88181.webp)
+## iris-x-germanica
 
 - Files: `photos/iris-x-germanica.t.547b18305241.webp` (200 px, cropped square), `photos/iris-x-germanica.l.70a63ab88181.webp` (800 px)
 - Title: 00 1238 Deutsche Schwertlilie (Iris × germanica).jpg
@@ -2266,23 +1986,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: W.Bulach
 
-## iris-x-germanica (iris-x-germanica.t.de7db563b33f.webp, iris-x-germanica.l.7192573de10e.webp)
-
-- Files: `photos/iris-x-germanica.t.de7db563b33f.webp` (200 px, cropped square), `photos/iris-x-germanica.l.7192573de10e.webp` (800 px)
-- Title: 00 1238 Deutsche Schwertlilie (Iris × germanica).jpg
-- Author: W. Bulach
-- Source: https://commons.wikimedia.org/wiki/File:00_1238_Deutsche_Schwertlilie_(Iris_%C3%97_germanica).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## ixora-coccinea (ixora-coccinea.t.22e8b87dd877.webp, ixora-coccinea.l.0b1bd9d8b349.webp)
-
-- Files: `photos/ixora-coccinea.t.22e8b87dd877.webp` (200 px, cropped square), `photos/ixora-coccinea.l.0b1bd9d8b349.webp` (800 px)
-- Title: IxoraCoccineaMiami.JPG
-- Author: UpstateNYer
-- Source: https://commons.wikimedia.org/wiki/File:IxoraCoccineaMiami.JPG
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## ixora-coccinea (ixora-coccinea.t.67660c7626c3.webp, ixora-coccinea.l.cb613466e5e6.webp)
+## ixora-coccinea
 
 - Files: `photos/ixora-coccinea.t.67660c7626c3.webp` (200 px, cropped square), `photos/ixora-coccinea.l.cb613466e5e6.webp` (800 px)
 - Title: IxoraCoccineaMiami.JPG
@@ -2298,7 +2002,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Jacobaea_vulgaris-3235.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## jasminum-officinale (jasminum-officinale.t.639e5d3c38bb.webp, jasminum-officinale.l.21e9cd3d1b7f.webp)
+## jasminum-officinale
 
 - Files: `photos/jasminum-officinale.t.639e5d3c38bb.webp` (200 px, cropped square), `photos/jasminum-officinale.l.21e9cd3d1b7f.webp` (800 px)
 - Title: Jasminum officinale-IMG 3470.jpg
@@ -2306,14 +2010,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Jasminum_officinale-IMG_3470.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Copyright: Christer Johansson
-
-## jasminum-officinale (jasminum-officinale.t.ababef2ee3d1.webp, jasminum-officinale.l.42806c79340c.webp)
-
-- Files: `photos/jasminum-officinale.t.ababef2ee3d1.webp` (200 px, cropped square), `photos/jasminum-officinale.l.42806c79340c.webp` (800 px)
-- Title: Jasminum officinale-IMG 3470.jpg
-- Author: C T Johansson
-- Source: https://commons.wikimedia.org/wiki/File:Jasminum_officinale-IMG_3470.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## jasminum-sambac
 
@@ -2347,15 +2043,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Image-Juniperus_bermudiana_-_mature.jpg
 - Licence: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5/)
 
-## juniperus-communis (juniperus-communis.t.5650bc92c2f2.webp, juniperus-communis.l.c21ccf82fcbb.webp)
-
-- Files: `photos/juniperus-communis.t.5650bc92c2f2.webp` (200 px, cropped square), `photos/juniperus-communis.l.c21ccf82fcbb.webp` (800 px)
-- Title: Juniperus communis fruits - Keila.jpg
-- Author: Ivar Leidus
-- Source: https://commons.wikimedia.org/wiki/File:Juniperus_communis_fruits_-_Keila.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## juniperus-communis (juniperus-communis.t.663bb2deb8cb.webp, juniperus-communis.l.ea8da89deccb.webp)
+## juniperus-communis
 
 - Files: `photos/juniperus-communis.t.663bb2deb8cb.webp` (200 px, cropped square), `photos/juniperus-communis.l.ea8da89deccb.webp` (800 px)
 - Title: Juniperus communis fruits - Keila.jpg
@@ -2452,15 +2140,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Lawsonia_inermis_(3709419835).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## leontopodium-nivale (leontopodium-nivale.t.0414a902455a.webp, leontopodium-nivale.l.eefe45ff055e.webp)
-
-- Files: `photos/leontopodium-nivale.t.0414a902455a.webp` (200 px, cropped square), `photos/leontopodium-nivale.l.eefe45ff055e.webp` (800 px)
-- Title: Alpen Edelweiß, Leontopodium alpinum 2.JPG
-- Author: Böhringer Friedrich
-- Source: https://commons.wikimedia.org/wiki/File:Alpen_Edelwei%C3%9F,_Leontopodium_alpinum_2.JPG
-- Licence: CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/)
-
-## leontopodium-nivale (leontopodium-nivale.t.d7392ff8b060.webp, leontopodium-nivale.l.9a1d8951a4dc.webp)
+## leontopodium-nivale
 
 - Files: `photos/leontopodium-nivale.t.d7392ff8b060.webp` (200 px, cropped square), `photos/leontopodium-nivale.l.9a1d8951a4dc.webp` (800 px)
 - Title: Alpen Edelweiß, Leontopodium alpinum 2.JPG
@@ -2501,7 +2181,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Libidibia_coriaria_-_Divi-divi_Tree_-_Caesalpinia_coriaria_-_WikiSangamotsavam_2018,_Kottappuram,_Kodungalloor_(3).jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## lilium-formosanum (lilium-formosanum.t.baa15e2fc300.webp, lilium-formosanum.l.baf2858528d5.webp)
+## lilium-formosanum
 
 - Files: `photos/lilium-formosanum.t.baa15e2fc300.webp` (200 px, cropped square), `photos/lilium-formosanum.l.baf2858528d5.webp` (800 px)
 - Title: Formosa lily, Nagai Park, Osaka.jpg
@@ -2509,14 +2189,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Formosa_lily,_Nagai_Park,_Osaka.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Laitche; Copyright: Laitche, CC BY-SA 4.0 / FAL
-
-## lilium-formosanum (lilium-formosanum.t.c2ea06caec93.webp, lilium-formosanum.l.433155dc313e.webp)
-
-- Files: `photos/lilium-formosanum.t.c2ea06caec93.webp` (200 px, cropped square), `photos/lilium-formosanum.l.433155dc313e.webp` (800 px)
-- Title: Formosa lily, Nagai Park, Osaka.jpg
-- Author: Laitche
-- Source: https://commons.wikimedia.org/wiki/File:Formosa_lily,_Nagai_Park,_Osaka.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## linum-usitatissimum
 
@@ -2526,19 +2198,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Linum_usitatissimum_(OliBac).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## litchi-chinensis (litchi-chinensis.t.d2ab07e98619.webp, litchi-chinensis.l.7b6eac83a0b6.webp)
+## litchi-chinensis
 
 - Files: `photos/litchi-chinensis.t.d2ab07e98619.webp` (200 px, cropped square), `photos/litchi-chinensis.l.7b6eac83a0b6.webp` (800 px)
 - Title: Litchi chinensis in Ramnagar AJTJ P1130039.jpg
 - Author: A. J. T. Johnsingh, WWF-India and NCF
-- Source: https://commons.wikimedia.org/wiki/File:Litchi_chinensis_in_Ramnagar_AJTJ_P1130039.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## litchi-chinensis (litchi-chinensis.t.e133d68361e0.webp, litchi-chinensis.l.3007bb0d756b.webp)
-
-- Files: `photos/litchi-chinensis.t.e133d68361e0.webp` (200 px, cropped square), `photos/litchi-chinensis.l.3007bb0d756b.webp` (800 px)
-- Title: Litchi chinensis in Ramnagar AJTJ P1130039.jpg
-- Author: A. J. T. Johnsingh
 - Source: https://commons.wikimedia.org/wiki/File:Litchi_chinensis_in_Ramnagar_AJTJ_P1130039.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -2590,15 +2254,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Magnolia._Campbellii._(11004168543).jpg
 - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
-## magnolia-denudata (magnolia-denudata.t.63626d7238c1.webp, magnolia-denudata.l.fbdf5c62218f.webp)
-
-- Files: `photos/magnolia-denudata.t.63626d7238c1.webp` (200 px, cropped square), `photos/magnolia-denudata.l.fbdf5c62218f.webp` (800 px)
-- Title: Magnolia denudata 2019-04-16 9885.jpg
-- Author: Salicyna
-- Source: https://commons.wikimedia.org/wiki/File:Magnolia_denudata_2019-04-16_9885.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## magnolia-denudata (magnolia-denudata.t.e32aeca3e765.webp, magnolia-denudata.l.a21a8a3e3536.webp)
+## magnolia-denudata
 
 - Files: `photos/magnolia-denudata.t.e32aeca3e765.webp` (200 px, cropped square), `photos/magnolia-denudata.l.a21a8a3e3536.webp` (800 px)
 - Title: Magnolia denudata 2019-04-16 9885.jpg
@@ -2655,7 +2311,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Medinilla_waterhousei_(Tagimoucia_flower)_(31175387024).jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## melaleuca-citrina (melaleuca-citrina.t.6ae85db89a91.webp, melaleuca-citrina.l.9fb2cd95a908.webp)
+## melaleuca-citrina
 
 - Files: `photos/melaleuca-citrina.t.6ae85db89a91.webp` (200 px, cropped square), `photos/melaleuca-citrina.l.9fb2cd95a908.webp` (800 px)
 - Title: Callistemon citrinus-0878.jpg
@@ -2663,14 +2319,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Callistemon_citrinus-0878.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Copyright: Copyright 2011 Dirk Hoffmann, Marseille
-
-## melaleuca-citrina (melaleuca-citrina.t.a7f995762f29.webp, melaleuca-citrina.l.8759e671b6c8.webp)
-
-- Files: `photos/melaleuca-citrina.t.a7f995762f29.webp` (200 px, cropped square), `photos/melaleuca-citrina.l.8759e671b6c8.webp` (800 px)
-- Title: Callistemon citrinus-0878.jpg
-- Author: DirkHoffmann
-- Source: https://commons.wikimedia.org/wiki/File:Callistemon_citrinus-0878.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## melocactus-intortus
 
@@ -2736,7 +2384,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:DrumstickFlower.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## moringa-peregrina (moringa-peregrina.t.c046eda10d0c.webp, moringa-peregrina.l.bd2ca65c09a4.webp)
+## moringa-peregrina
 
 - Files: `photos/moringa-peregrina.t.c046eda10d0c.webp` (200 px, cropped square), `photos/moringa-peregrina.l.bd2ca65c09a4.webp` (800 px)
 - Title: Moringa peregrina kz01.jpg
@@ -2745,15 +2393,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: KRZYSZTOF ZIARNEK
 
-## moringa-peregrina (moringa-peregrina.t.f22635cda70b.webp, moringa-peregrina.l.7db43ec598b5.webp)
-
-- Files: `photos/moringa-peregrina.t.f22635cda70b.webp` (200 px, cropped square), `photos/moringa-peregrina.l.7db43ec598b5.webp` (800 px)
-- Title: Moringa peregrina kz01.jpg
-- Author: Krzysztof Ziarnek, Kenraiz
-- Source: https://commons.wikimedia.org/wiki/File:Moringa_peregrina_kz01.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## morus-alba (morus-alba.t.828d8100454b.webp, morus-alba.l.59c6717684e9.webp)
+## morus-alba
 
 - Files: `photos/morus-alba.t.828d8100454b.webp` (200 px, cropped square), `photos/morus-alba.l.59c6717684e9.webp` (800 px)
 - Title: Morus alba fruits.jpg
@@ -2761,15 +2401,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Morus_alba_fruits.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## morus-alba (morus-alba.t.8e5ffd17d499.webp, morus-alba.l.6d3a6a03c81a.webp)
-
-- Files: `photos/morus-alba.t.8e5ffd17d499.webp` (200 px, cropped square), `photos/morus-alba.l.6d3a6a03c81a.webp` (800 px)
-- Title: Morus-alba.jpg
-- Author: GerardM
-- Source: https://commons.wikimedia.org/wiki/File:Morus-alba.jpg
-- Licence: CC BY-SA 2.1 ES (https://creativecommons.org/licenses/by-sa/2.1/es/)
-
-## musa-acuminata (musa-acuminata.t.9991817bb45d.webp, musa-acuminata.l.846eae6f224a.webp)
+## musa-acuminata
 
 - Files: `photos/musa-acuminata.t.9991817bb45d.webp` (200 px, cropped square), `photos/musa-acuminata.l.846eae6f224a.webp` (800 px)
 - Title: -73 100 Dwarf Banana Tree (50387504467).jpg
@@ -2777,14 +2409,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:-73_100_Dwarf_Banana_Tree_(50387504467).jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 - Notice in the original file: Artist: C. VanHook; Copyright: Contact:vanhookc@gmail.com
-
-## musa-acuminata (musa-acuminata.t.e54306480e1b.webp, musa-acuminata.l.6d205d0a5c70.webp)
-
-- Files: `photos/musa-acuminata.t.e54306480e1b.webp` (200 px, cropped square), `photos/musa-acuminata.l.6d205d0a5c70.webp` (800 px)
-- Title: -73 100 Dwarf Banana Tree (50387504467).jpg
-- Author: Carol VanHook
-- Source: https://commons.wikimedia.org/wiki/File:-73_100_Dwarf_Banana_Tree_(50387504467).jpg
-- Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
 ## myristica-fragrans
 
@@ -3114,15 +2738,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Phormium_tenax_Piha02.jpg
 - Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-user)
 
-## phylica-arborea (phylica-arborea.t.a051f5e0ec86.webp, phylica-arborea.l.bded7ecb2fa7.webp)
-
-- Files: `photos/phylica-arborea.t.a051f5e0ec86.webp` (200 px, cropped square), `photos/phylica-arborea.l.bded7ecb2fa7.webp` (800 px)
-- Title: 2021-02 Amsterdam Island - Martin-de-Viviès 19.jpg
-- Author: Antoine Lamielle
-- Source: https://commons.wikimedia.org/wiki/File:2021-02_Amsterdam_Island_-_Martin-de-Vivi%C3%A8s_19.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## phylica-arborea (phylica-arborea.t.ac7439ecbdae.webp, phylica-arborea.l.bab889fbc6ae.webp)
+## phylica-arborea
 
 - Files: `photos/phylica-arborea.t.ac7439ecbdae.webp` (200 px, cropped square), `photos/phylica-arborea.l.bab889fbc6ae.webp` (800 px)
 - Title: 2021-02 Amsterdam Island - Martin-de-Viviès 19.jpg
@@ -3203,7 +2819,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Pinus_gerardiana_female_cones_(02).jpeg
 - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-## pinus-halepensis (pinus-halepensis.t.23db6d06eb49.webp, pinus-halepensis.l.7c8b1fd7d907.webp)
+## pinus-halepensis
 
 - Files: `photos/pinus-halepensis.t.23db6d06eb49.webp` (200 px, cropped square), `photos/pinus-halepensis.l.7c8b1fd7d907.webp` (800 px)
 - Title: Calanques -- Calanque de Port Pin - Pinus halepensis.jpg
@@ -3211,14 +2827,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Calanques_--_Calanque_de_Port_Pin_-_Pinus_halepensis.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Artist: spacebirdy; Copyright: Alle Rechte vorbehalten. http://spacebirdy.org
-
-## pinus-halepensis (pinus-halepensis.t.cc86e2cbd0e6.webp, pinus-halepensis.l.4984a5b89c6f.webp)
-
-- Files: `photos/pinus-halepensis.t.cc86e2cbd0e6.webp` (200 px, cropped square), `photos/pinus-halepensis.l.4984a5b89c6f.webp` (800 px)
-- Title: Calanques -- Calanque de Port Pin - Pinus halepensis.jpg
-- Author: spacebirdy
-- Source: https://commons.wikimedia.org/wiki/File:Calanques_--_Calanque_de_Port_Pin_-_Pinus_halepensis.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## pinus-hwangshanensis
 
@@ -3244,7 +2852,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Pinus_roxburghii_tree.jpg
 - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-## pinus-strobus (pinus-strobus.t.27555e97a873.webp, pinus-strobus.l.d9d403b28cfb.webp)
+## pinus-strobus
 
 - Files: `photos/pinus-strobus.t.27555e97a873.webp` (200 px, cropped square), `photos/pinus-strobus.l.d9d403b28cfb.webp` (800 px)
 - Title: Eastern White Pine (Pinus strobus) - Killarney, Ontario 01.jpg
@@ -3252,14 +2860,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Eastern_White_Pine_(Pinus_strobus)_-_Killarney,_Ontario_01.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Ryan Hodnett; Copyright: Creative Commons Attribution-ShareAlike (CC BY-SA)
-
-## pinus-strobus (pinus-strobus.t.eff7d9f8cff5.webp, pinus-strobus.l.023715cbe491.webp)
-
-- Files: `photos/pinus-strobus.t.eff7d9f8cff5.webp` (200 px, cropped square), `photos/pinus-strobus.l.023715cbe491.webp` (800 px)
-- Title: Eastern White Pine (Pinus strobus) - Killarney, Ontario 01.jpg
-- Author: Ryan Hodnett
-- Source: https://commons.wikimedia.org/wiki/File:Eastern_White_Pine_(Pinus_strobus)_-_Killarney,_Ontario_01.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## pinus-sylvestris
 
@@ -3309,15 +2909,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Jabuticaba_fruto.jpg
 - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 
-## plumeria-rubra (plumeria-rubra.t.1e533a9c1223.webp, plumeria-rubra.l.c8b56438f201.webp)
-
-- Files: `photos/plumeria-rubra.t.1e533a9c1223.webp` (200 px, cropped square), `photos/plumeria-rubra.l.c8b56438f201.webp` (800 px)
-- Title: Plumeria-wiki-Zachi-Evenor-001a.jpg
-- Author: Zachi Evenor and MathKnight
-- Source: https://commons.wikimedia.org/wiki/File:Plumeria-wiki-Zachi-Evenor-001a.jpg
-- Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
-
-## plumeria-rubra (plumeria-rubra.t.1efb443ea79b.webp, plumeria-rubra.l.a06b243bf73c.webp)
+## plumeria-rubra
 
 - Files: `photos/plumeria-rubra.t.1efb443ea79b.webp` (200 px, cropped square), `photos/plumeria-rubra.l.a06b243bf73c.webp` (800 px)
 - Title: Plumeria-wiki-Zachi-Evenor-001a.jpg
@@ -3334,19 +2926,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Poa_cookii_-_panoramio.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## poa-flabellata (poa-flabellata.t.a13b1a431755.webp, poa-flabellata.l.5752d8d663dc.webp)
+## poa-flabellata
 
 - Files: `photos/poa-flabellata.t.a13b1a431755.webp` (200 px, cropped square), `photos/poa-flabellata.l.5752d8d663dc.webp` (800 px)
 - Title: Poa flabellata2.jpg
 - Author: Serge Ouachée
-- Source: https://commons.wikimedia.org/wiki/File:Poa_flabellata2.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## poa-flabellata (poa-flabellata.t.fb13e00e3830.webp, poa-flabellata.l.955188c896c4.webp)
-
-- Files: `photos/poa-flabellata.t.fb13e00e3830.webp` (200 px, cropped square), `photos/poa-flabellata.l.955188c896c4.webp` (800 px)
-- Title: Poa flabellata2.jpg
-- Author: Butterfly voyages - Serge Ouachée
 - Source: https://commons.wikimedia.org/wiki/File:Poa_flabellata2.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -3358,15 +2942,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Podocarpus_latifolius_-_Cape_Town_-_1.JPG
 - Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-user)
 
-## podocarpus-totara (podocarpus-totara.t.ad48ee8b2f2d.webp, podocarpus-totara.l.2bda7d21a5c1.webp)
-
-- Files: `photos/podocarpus-totara.t.ad48ee8b2f2d.webp` (200 px, cropped square), `photos/podocarpus-totara.l.2bda7d21a5c1.webp` (800 px)
-- Title: Giant lowland totara.jpg
-- Author: Tomas Sobek
-- Source: https://commons.wikimedia.org/wiki/File:Giant_lowland_totara.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## podocarpus-totara (podocarpus-totara.t.c8ffcbd31925.webp, podocarpus-totara.l.bb6edf65d3b7.webp)
+## podocarpus-totara
 
 - Files: `photos/podocarpus-totara.t.c8ffcbd31925.webp` (200 px, cropped square), `photos/podocarpus-totara.l.bb6edf65d3b7.webp` (800 px)
 - Title: Giant lowland totara.jpg
@@ -3455,15 +3031,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Prot%C3%A9a_royale_%C3%A0_Stellenbosch_(Afrique_du_Sud).jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## prunus-amygdalus (prunus-amygdalus.t.2254750bedfb.webp, prunus-amygdalus.l.baea686ecceb.webp)
-
-- Files: `photos/prunus-amygdalus.t.2254750bedfb.webp` (200 px, cropped square), `photos/prunus-amygdalus.l.baea686ecceb.webp` (800 px)
-- Title: Almonds - in shell, shell cracked open, shelled, blanched.jpg
-- Author: Ivar Leidus
-- Source: https://commons.wikimedia.org/wiki/File:Almonds_-_in_shell,_shell_cracked_open,_shelled,_blanched.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## prunus-amygdalus (prunus-amygdalus.t.58817f44cd1b.webp, prunus-amygdalus.l.81b518c04dea.webp)
+## prunus-amygdalus
 
 - Files: `photos/prunus-amygdalus.t.58817f44cd1b.webp` (200 px, cropped square), `photos/prunus-amygdalus.l.81b518c04dea.webp` (800 px)
 - Title: Almonds - in shell, shell cracked open, shelled, blanched.jpg
@@ -3472,21 +3040,13 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Ivar Leidus
 
-## prunus-armeniaca (prunus-armeniaca.t.7da1b002464e.webp, prunus-armeniaca.l.141aeb71c7bd.webp)
+## prunus-armeniaca
 
 - Files: `photos/prunus-armeniaca.t.7da1b002464e.webp` (200 px, cropped square), `photos/prunus-armeniaca.l.141aeb71c7bd.webp` (800 px)
 - Title: Apricots 1 - Farmer's Market at the Ferry Building - San Francisco, CA - DSC03600.JPG
 - Author: Daderot
 - Source: https://commons.wikimedia.org/wiki/File:Apricots_1_-_Farmer%27s_Market_at_the_Ferry_Building_-_San_Francisco,_CA_-_DSC03600.JPG
 - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-
-## prunus-armeniaca (prunus-armeniaca.t.8eb3a1bfe887.webp, prunus-armeniaca.l.59b55e687e6f.webp)
-
-- Files: `photos/prunus-armeniaca.t.8eb3a1bfe887.webp` (200 px, cropped square), `photos/prunus-armeniaca.l.59b55e687e6f.webp` (800 px)
-- Title: Apricots.jpg
-- Author: Fir0002
-- Source: https://commons.wikimedia.org/wiki/File:Apricots.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## prunus-campanulata
 
@@ -3560,19 +3120,11 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Punica_granatum_004.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## quercus-alba (quercus-alba.t.0177ccc370f7.webp, quercus-alba.l.0e400f0eadf4.webp)
+## quercus-alba
 
 - Files: `photos/quercus-alba.t.0177ccc370f7.webp` (200 px, cropped square), `photos/quercus-alba.l.0e400f0eadf4.webp` (800 px)
 - Title: White Oak Tree, West Hartford, CT - June 17, 2013.jpg
 - Author: Marty Aligata
-- Source: https://commons.wikimedia.org/wiki/File:White_Oak_Tree,_West_Hartford,_CT_-_June_17,_2013.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
-
-## quercus-alba (quercus-alba.t.2bbbb0b5043d.webp, quercus-alba.l.9147a4249b6b.webp)
-
-- Files: `photos/quercus-alba.t.2bbbb0b5043d.webp` (200 px, cropped square), `photos/quercus-alba.l.9147a4249b6b.webp` (800 px)
-- Title: White Oak Tree, West Hartford, CT - June 17, 2013.jpg
-- Author: Msact at English Wikipedia
 - Source: https://commons.wikimedia.org/wiki/File:White_Oak_Tree,_West_Hartford,_CT_-_June_17,_2013.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -3624,15 +3176,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Rafflesia_Arnoldii_Batang_Palupuah_Indonesia.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## raphia-farinifera (raphia-farinifera.t.93c0cb968ab5.webp, raphia-farinifera.l.229f90b403d0.webp)
-
-- Files: `photos/raphia-farinifera.t.93c0cb968ab5.webp` (200 px, cropped square), `photos/raphia-farinifera.l.229f90b403d0.webp` (800 px)
-- Title: Raphia farinifera, Nosy Be, Madagascar, 2025-09-21, DD 106.jpg
-- Author: Diego Delso
-- Source: https://commons.wikimedia.org/wiki/File:Raphia_farinifera,_Nosy_Be,_Madagascar,_2025-09-21,_DD_106.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## raphia-farinifera (raphia-farinifera.t.b51c1c0fc506.webp, raphia-farinifera.l.7eb58ed950aa.webp)
+## raphia-farinifera
 
 - Files: `photos/raphia-farinifera.t.b51c1c0fc506.webp` (200 px, cropped square), `photos/raphia-farinifera.l.7eb58ed950aa.webp` (800 px)
 - Title: Raphia farinifera, Nosy Be, Madagascar, 2025-09-21, DD 106.jpg
@@ -3665,15 +3209,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Rheum_nobile_in_Paro,_Bhutan.jpg
 - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-## rhizophora-mangle (rhizophora-mangle.t.4daadfd9b111.webp, rhizophora-mangle.l.ddc7cd3dcfd0.webp)
-
-- Files: `photos/rhizophora-mangle.t.4daadfd9b111.webp` (200 px, cropped square), `photos/rhizophora-mangle.l.ddc7cd3dcfd0.webp` (800 px)
-- Title: Palétuvier ( Racines-échasses ).jpg
-- Author: Filo gèn'
-- Source: https://commons.wikimedia.org/wiki/File:Pal%C3%A9tuvier_(_Racines-%C3%A9chasses_).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## rhizophora-mangle (rhizophora-mangle.t.9045c14a1276.webp, rhizophora-mangle.l.633688f31eb1.webp)
+## rhizophora-mangle
 
 - Files: `photos/rhizophora-mangle.t.9045c14a1276.webp` (200 px, cropped square), `photos/rhizophora-mangle.l.633688f31eb1.webp` (800 px)
 - Title: Palétuvier ( Racines-échasses ).jpg
@@ -3818,7 +3354,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Arktische_Weide_(Salix_arctica)_5766.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## samanea-saman (samanea-saman.t.84c88677a13a.webp, samanea-saman.l.9b07a6cd0677.webp)
+## samanea-saman
 
 - Files: `photos/samanea-saman.t.84c88677a13a.webp` (200 px, cropped square), `photos/samanea-saman.l.9b07a6cd0677.webp` (800 px)
 - Title: Flooded Albizia Saman (rain tree) in the Mekong.jpg
@@ -3826,14 +3362,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Flooded_Albizia_Saman_(rain_tree)_in_the_Mekong.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Basile Morin
-
-## samanea-saman (samanea-saman.t.88b69aa924ca.webp, samanea-saman.l.7a40d639e022.webp)
-
-- Files: `photos/samanea-saman.t.88b69aa924ca.webp` (200 px, cropped square), `photos/samanea-saman.l.7a40d639e022.webp` (800 px)
-- Title: Flooded Albizia Saman (rain tree) in the Mekong.jpg
-- Author: Basile Morin
-- Source: https://commons.wikimedia.org/wiki/File:Flooded_Albizia_Saman_(rain_tree)_in_the_Mekong.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## santalum-acuminatum
 
@@ -3947,7 +3475,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Sisyrinchium_bermudianum_B.jpg
 - Licence: Public domain (https://commons.wikimedia.org/wiki/Template:PD-self)
 
-## solanum-lycopersicum (solanum-lycopersicum.t.123d1c53de09.webp, solanum-lycopersicum.l.9f4a9588456e.webp)
+## solanum-lycopersicum
 
 - Files: `photos/solanum-lycopersicum.t.123d1c53de09.webp` (200 px, cropped square), `photos/solanum-lycopersicum.l.9f4a9588456e.webp` (800 px)
 - Title: Pomodorini sulla pianta.jpg
@@ -3955,14 +3483,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Pomodorini_sulla_pianta.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Artist: Luigi Chiesa; Copyright: GFDL
-
-## solanum-lycopersicum (solanum-lycopersicum.t.1c7fb9bdcb0e.webp, solanum-lycopersicum.l.2672f9b8b564.webp)
-
-- Files: `photos/solanum-lycopersicum.t.1c7fb9bdcb0e.webp` (200 px, cropped square), `photos/solanum-lycopersicum.l.2672f9b8b564.webp` (800 px)
-- Title: Pomodorini sulla pianta.jpg
-- Author: Luigi Chiesa
-- Source: https://commons.wikimedia.org/wiki/File:Pomodorini_sulla_pianta.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## solanum-tuberosum
 
@@ -3972,7 +3492,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Starr_080914-9946_Solanum_tuberosum.jpg
 - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 
-## sophora-microphylla (sophora-microphylla.t.41cb5abeeb2c.webp, sophora-microphylla.l.98c612b1ee46.webp)
+## sophora-microphylla
 
 - Files: `photos/sophora-microphylla.t.41cb5abeeb2c.webp` (200 px, cropped square), `photos/sophora-microphylla.l.98c612b1ee46.webp` (800 px)
 - Title: Sophora-microphylla-flowers.jpg
@@ -3980,14 +3500,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Sophora-microphylla-flowers.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Artist: Andre Chalmers
-
-## sophora-microphylla (sophora-microphylla.t.f8513c13aeec.webp, sophora-microphylla.l.6648ba0d370f.webp)
-
-- Files: `photos/sophora-microphylla.t.f8513c13aeec.webp` (200 px, cropped square), `photos/sophora-microphylla.l.6648ba0d370f.webp` (800 px)
-- Title: Sophora-microphylla-flowers.jpg
-- Author: Grapeman4
-- Source: https://commons.wikimedia.org/wiki/File:Sophora-microphylla-flowers.jpg
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## sorbus-aucuparia
 
@@ -4149,15 +3661,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Taxus_baccata_tree.jpg
 - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-## tecoma-stans (tecoma-stans.t.1b54b4fe8763.webp, tecoma-stans.l.a23edb579ce7.webp)
-
-- Files: `photos/tecoma-stans.t.1b54b4fe8763.webp` (200 px, cropped square), `photos/tecoma-stans.l.a23edb579ce7.webp` (800 px)
-- Title: Tecoma stans (Bignoniaceae) 02.jpg
-- Author: Filo gèn'
-- Source: https://commons.wikimedia.org/wiki/File:Tecoma_stans_(Bignoniaceae)_02.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## tecoma-stans (tecoma-stans.t.55fc52d9612f.webp, tecoma-stans.l.46028c9a5f68.webp)
+## tecoma-stans
 
 - Files: `photos/tecoma-stans.t.55fc52d9612f.webp` (200 px, cropped square), `photos/tecoma-stans.l.46028c9a5f68.webp` (800 px)
 - Title: Tecoma stans (Bignoniaceae) 02.jpg
@@ -4286,15 +3790,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Tulipa_greigii_11.jpg
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-## vaccinium-myrtillus (vaccinium-myrtillus.t.4fdf583c078f.webp, vaccinium-myrtillus.l.a6774475cbc6.webp)
-
-- Files: `photos/vaccinium-myrtillus.t.4fdf583c078f.webp` (200 px, cropped square), `photos/vaccinium-myrtillus.l.a6774475cbc6.webp` (800 px)
-- Title: Common Bilberry (Vaccinium myrtillus) - Oslo, Norway 2020-08-07 (01).jpg
-- Author: Ryan Hodnett
-- Source: https://commons.wikimedia.org/wiki/File:Common_Bilberry_(Vaccinium_myrtillus)_-_Oslo,_Norway_2020-08-07_(01).jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## vaccinium-myrtillus (vaccinium-myrtillus.t.8d45946297b0.webp, vaccinium-myrtillus.l.1c9c6aff6cb5.webp)
+## vaccinium-myrtillus
 
 - Files: `photos/vaccinium-myrtillus.t.8d45946297b0.webp` (200 px, cropped square), `photos/vaccinium-myrtillus.l.1c9c6aff6cb5.webp` (800 px)
 - Title: Common Bilberry (Vaccinium myrtillus) - Oslo, Norway 2020-08-07 (01).jpg
@@ -4335,15 +3831,7 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Viburnum_opulus_bunched.jpg
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-## victoria-amazonica (victoria-amazonica.t.1466333becfb.webp, victoria-amazonica.l.3741a4cf0bd9.webp)
-
-- Files: `photos/victoria-amazonica.t.1466333becfb.webp` (200 px, cropped square), `photos/victoria-amazonica.l.3741a4cf0bd9.webp` (800 px)
-- Title: Victoria amazonica edit 1.jpg
-- Author: Bilby
-- Source: https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg
-- Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
-
-## victoria-amazonica (victoria-amazonica.t.ef5d89764727.webp, victoria-amazonica.l.1d105720a317.webp)
+## victoria-amazonica
 
 - Files: `photos/victoria-amazonica.t.ef5d89764727.webp` (200 px, cropped square), `photos/victoria-amazonica.l.1d105720a317.webp` (800 px)
 - Title: Victoria amazonica edit 1.jpg
@@ -4352,15 +3840,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
 - Notice in the original file: Artist: Adam.Jenkins
 
-## vigna-unguiculata (vigna-unguiculata.t.38ef91d75cd0.webp, vigna-unguiculata.l.57ffd54359ff.webp)
-
-- Files: `photos/vigna-unguiculata.t.38ef91d75cd0.webp` (200 px, cropped square), `photos/vigna-unguiculata.l.57ffd54359ff.webp` (800 px)
-- Title: Cowpea cultivation 01.jpg
-- Author: Ganesh Mohan T
-- Source: https://commons.wikimedia.org/wiki/File:Cowpea_cultivation_01.jpg
-- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
-
-## vigna-unguiculata (vigna-unguiculata.t.8b1721344cd8.webp, vigna-unguiculata.l.c818662bccfe.webp)
+## vigna-unguiculata
 
 - Files: `photos/vigna-unguiculata.t.8b1721344cd8.webp` (200 px, cropped square), `photos/vigna-unguiculata.l.c818662bccfe.webp` (800 px)
 - Title: Cowpea cultivation 01.jpg
@@ -4369,7 +3849,7 @@ Photos taken down at a rights holder's request are not listed.
 - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 - Notice in the original file: Artist: Ganesh; Copyright: CC-BY-SA
 
-## vitellaria-paradoxa (vitellaria-paradoxa.t.437020f28b0e.webp, vitellaria-paradoxa.l.61917c1eb1dc.webp)
+## vitellaria-paradoxa
 
 - Files: `photos/vitellaria-paradoxa.t.437020f28b0e.webp` (200 px, cropped square), `photos/vitellaria-paradoxa.l.61917c1eb1dc.webp` (800 px)
 - Title: Vitellaria paradoxa MS 6563.JPG
@@ -4377,14 +3857,6 @@ Photos taken down at a rights holder's request are not listed.
 - Source: https://commons.wikimedia.org/wiki/File:Vitellaria_paradoxa_MS_6563.JPG
 - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 - Notice in the original file: Copyright: Marco Schmidt
-
-## vitellaria-paradoxa (vitellaria-paradoxa.t.b4e2aef00682.webp, vitellaria-paradoxa.l.fda2442c055a.webp)
-
-- Files: `photos/vitellaria-paradoxa.t.b4e2aef00682.webp` (200 px, cropped square), `photos/vitellaria-paradoxa.l.fda2442c055a.webp` (800 px)
-- Title: Vitellaria paradoxa MS 6563.JPG
-- Author: Marco Schmidt
-- Source: https://commons.wikimedia.org/wiki/File:Vitellaria_paradoxa_MS_6563.JPG
-- Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## vitis-vinifera
 
