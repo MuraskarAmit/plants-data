@@ -1,0 +1,13 @@
+Copyright 2026 makemesmarter (https://makemesmarter.in)
+
+The files in this repository are the plant photos of Plants of the world in Make Me Smarter: copies of photos on Wikimedia Commons, resized (the `.t.` files also cropped square) and converted to WebP by Make Me Smarter.
+
+1. Each photo stays under its own licence (CC0, public domain, or CC BY / CC BY-SA 1.0 to 4.0), which ATTRIBUTION.md gives with its title, its author and its page on Wikimedia Commons; the same credit is inside each file (EXIF Artist, Copyright, ImageDescription). Reusing a photo means following its licence: credit its author as given and name its licence, and share an adaptation of a CC BY-SA photo under the same licence. Resizing, cropping and converting them adds no rights of ours: each copy keeps the original's licence.
+
+2. Make Me Smarter's own work in this repository (the choice of photos for each plant, the release records and the arrangement of ATTRIBUTION.md) is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+   Credit it as: "Plant photo selection: Make Me Smarter (makemesmarter.in), CC BY 4.0", together with each photo's own credit from ATTRIBUTION.md.
+
+3. The photos are for learning, not for identifying, eating or treating plants.
+
+The app's source code is not in this repository and is not covered by this licence.

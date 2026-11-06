@@ -1,0 +1,3 @@
+# Text with LF everywhere; the photos are binary and must never be converted.
+* text=auto eol=lf
+*.webp binary
